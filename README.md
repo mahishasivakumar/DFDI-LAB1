@@ -4,8 +4,8 @@
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
 
 ```
-Register Number: 212222040121
-Name: Praveen V
+Register Number: 212222040095
+Name: Mahisha S
 ```
 
 ## EQUIPMENT REQUIRED:
@@ -34,15 +34,18 @@ INSTALLING VMWARE:
   •	Click on the “Downloads” link in the left menu
   
   •	Under VirtualBox x.x.x platform packages, click Windows hosts
-  ![image](https://github.com/user-attachments/assets/6b3b5dea-3bd0-4e2f-9e19-791776312cb3)
+  ![Screenshot 2025-04-22 185911](https://github.com/user-attachments/assets/1bec80de-b48c-4695-8e97-c57e2af3c6c0)
+
 
 ### Step 2. Run the Installer
   •	Locate the downloaded .exe file (usually in your Downloads folder)
-  ![image](https://github.com/user-attachments/assets/2e1124f5-c545-49c1-a32e-77b570772e47)
+  ![Screenshot 2025-04-22 190227](https://github.com/user-attachments/assets/7b508958-3d14-4a39-aba3-d82e7995e196)
+
   
   •	Double-click it to run the installer
 ### Step 3. Installer Wizard
-![image](https://github.com/user-attachments/assets/b6ce457d-ef4d-44f0-a364-239882032541)
+![Screenshot 2025-04-22 190511](https://github.com/user-attachments/assets/f386a1f7-9d15-4db6-9c30-73a05d401f61)
+
 
   •	Click Next
   
@@ -51,11 +54,13 @@ INSTALLING VMWARE:
   •	Click Next
 ### Step  4. Network Interface Warning
   •	Click Yes to proceed (this may temporarily disconnect your internet)
-  ![image](https://github.com/user-attachments/assets/fc27e8c9-87f3-47be-a144-3e07124d6c9a)
+  !![Screenshot 2025-04-22 190536](https://github.com/user-attachments/assets/85560961-c92b-46f2-ac1c-517451b051ff)
+
 
 ### Step  5. Begin Installation
   •	Click Install
-  ![image](https://github.com/user-attachments/assets/6241549f-0079-4fba-9b9a-09f76bca4db6)
+  ![Screenshot 2025-04-22 190558](https://github.com/user-attachments/assets/3c2009d4-1b94-42bb-a202-96574db13916)
+
   
   •	If asked for permission by User Account Control (UAC), click Yes
 
@@ -63,7 +68,8 @@ INSTALLING VMWARE:
   •	Click Finish
   
   •	VirtualBox will launch (if the checkbox is ticked)
-  ![image](https://github.com/user-attachments/assets/dff98782-4186-4717-b97f-e59adc929945)
+  ![Screenshot 2025-04-22 190656](https://github.com/user-attachments/assets/93b8da88-0549-4147-ae37-d5d6ad55b5f6)
+
 
 ## INSTALLING KALI LINUX:
 ### Step 1: Open Oracle VirtualBox
@@ -89,7 +95,8 @@ INSTALLING VMWARE:
   •	Open VirtualBox
   
   •	Click on File → Import Appliance
-  ![image](https://github.com/user-attachments/assets/da7fd3b1-a9b0-40fb-93dc-f0d9a1b15bfa)
+  ![Screenshot 2025-04-22 190821](https://github.com/user-attachments/assets/3806cbd6-444f-436c-8e66-61f6fe2f8417)
+
   
   •	Click Choose, then browse to the extracted .vbox file
   
@@ -102,9 +109,12 @@ INSTALLING VMWARE:
   •	Once imported, you will see "Kali Linux" in the left panel
   
   •	Select it and click Start and the Kali Linux will boot up
-  ![image](https://github.com/user-attachments/assets/07334803-be51-4b19-954f-b33010c68fa6)
-  ![image](https://github.com/user-attachments/assets/90b2f754-6de1-44c0-bb00-5523e82c8632)
-  ![image](https://github.com/user-attachments/assets/52a08d92-1ede-4009-81a3-b1d9719a0db4)
+  ![Screenshot 2025-04-22 190859](https://github.com/user-attachments/assets/b543e306-5ab1-4dd5-ab6a-92c301550ee9)
+
+  ![Screenshot 2025-04-22 190937](https://github.com/user-attachments/assets/e8630e49-b95f-4df2-a9ab-da74506ce9bd)
+
+  ![Screenshot 2025-04-22 190954](https://github.com/user-attachments/assets/b46f063d-a3b4-4a10-8a1c-958c9a4b3c53)
+
   
 ## OUTPUT:
   •	After login (default username: kali, password: kali)
@@ -112,7 +122,8 @@ INSTALLING VMWARE:
   •	Open the Terminal (black monitor icon)
   
   •	Try the basic Linux commands:
-  ![image](https://github.com/user-attachments/assets/34666e5d-2bc9-4d96-b2b9-493ae4b6cf46)
+  ![Screenshot 2025-04-22 191013](https://github.com/user-attachments/assets/78f60758-825e-4ce3-b890-f25623a2c27c)
+
   
 ## INSTALLING SLEUTH KIT:
   •	Download Sleuth Kit from www.sleuthkit.org/sleuthkit/download.php
