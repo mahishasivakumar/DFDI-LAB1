@@ -81,7 +81,8 @@ INSTALLING VMWARE:
    https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-virtualbox-amd64.7z
    
   •	Download the .7z file (Kali Linux VirtualBox image)
-  ![image](https://github.com/user-attachments/assets/0ca20847-91fe-4745-b21e-ac4d0caa72a4)
+  ![image](https://github.com/user-attachments/assets/68c57786-55e8-4e56-a439-2f119a722edb)
+
   
 ### Step 3: Extract the File
   •	Use 7-Zip or WinRAR to extract the .7z file:
