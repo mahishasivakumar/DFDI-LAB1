@@ -133,28 +133,35 @@ INSTALLING VMWARE:
   ●	Move the downloaded folder to the program files.
   
   ●	Go to the system environment variables.
-  ![image](https://github.com/user-attachments/assets/cd11b600-7248-4db7-9056-103cd0375274)
-  ![image](https://github.com/user-attachments/assets/9b23a2db-287e-45e0-8037-5abdadccc401)
+  ![Screenshot 2025-04-22 201258](https://github.com/user-attachments/assets/9c1e7495-36c2-4fd0-8944-3b7435f69391)
+
+  ![Screenshot 2025-04-22 201341](https://github.com/user-attachments/assets/965d4ea2-2640-451c-98e9-6b7d5293b261)
+
   
   ● Click environment variables.
-  ![image](https://github.com/user-attachments/assets/63bf5230-4ef6-457c-b084-7012086de8e4)
-  ![image](https://github.com/user-attachments/assets/7b371029-5ce9-4050-8252-26901ab81b4e)
+  ![Screenshot 2025-04-22 201402](https://github.com/user-attachments/assets/28cf0049-90c1-4e13-8a88-0b9a7ca8390b)
+
+  ![Screenshot 2025-04-22 201452](https://github.com/user-attachments/assets/af5d68c6-fd6a-4799-ad77-810944b3a2ec)
+
   
   ●	Click the path
   
   ●	Now add the sleuth kit folder address.
   
   ●	And the click ok. USING OF SLEUTH KIT:
-  ![image](https://github.com/user-attachments/assets/c8ec3ab7-646e-4f93-a02a-54a2698f05fa)
+  ![Screenshot 2025-04-22 201546](https://github.com/user-attachments/assets/482f4809-1677-42ec-8cf2-34e48af83e20)
+
   
 ## OUTPUT:
   ● Open command prompt and type fls -V to check sleuth kit is installed or not.
   
   ●	Lists partition layout
-  ![image](https://github.com/user-attachments/assets/13fd54bd-3807-48b9-a923-25e85f1a9735)
+  ![Screenshot 2025-04-22 201607](https://github.com/user-attachments/assets/aec6b61a-df7a-4f53-bb29-1c6e2fa7dc02)
+
   
   ●	Lists files and directories
-  ![image](https://github.com/user-attachments/assets/968d265d-8065-47a3-9e38-2f4032bb2535)
+  ![Screenshot 2025-04-22 201639](https://github.com/user-attachments/assets/9b53b1a3-3891-485b-b495-9f2f7bbe8f41)
+
 
 These are the some of the commands used in the Sleuth kit.
 
